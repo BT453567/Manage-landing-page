@@ -758,7 +758,7 @@ footer a {
     }
 
     .carousel-track.move-right {
-        transform: translateX(100%);
+        transform: translateX(150%);
     }
 
     .testimonials__pagination-container {
